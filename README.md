@@ -1,5 +1,14 @@
 <h1 align="center">Dolphin Anty Stealth Web Automation</h1>
 
+## Project Overview:
+This project delivers a stealth-focused web automation system using **Dolphin Anty** browser profiles combined with traditional browser automation tools like Puppeteer and Playwright. Built for tasks that require high anonymity—such as managing multiple accounts, bypassing detection, or simulating human behavior—it’s ideal for marketers, testers, and automation enthusiasts who need reliability under scrutiny.
+
+
+## Core Features:
+- **Stealth Automation with Dolphin Anty:** Full integration with Dolphin Anty profiles—ensuring session fingerprint spoofing, proxy rotation, and anti-detection measures are baked in.
+- **Flexible Engine Support:** Choose your tooling—Selenium, Puppeteer, or Playwright—for the automation logic depending on task complexity and scale.
+- **Multi-Profile & Task Scaling**: Supports managing hundreds of browser sessions in parallel, each fully isolated and controllable via API.
+
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/d200549d-7613-446f-a43b-19a4117ca360"
@@ -62,15 +71,6 @@
 <span>
 
 <div align="left">
-
-## Project Overview:
-This project delivers a stealth-focused web automation system using **Dolphin Anty** browser profiles combined with traditional browser automation tools like Puppeteer and Playwright. Built for tasks that require high anonymity—such as managing multiple accounts, bypassing detection, or simulating human behavior—it’s ideal for marketers, testers, and automation enthusiasts who need reliability under scrutiny.
-
-
-## Core Strengths:
-- **Stealth Automation with Dolphin Anty:** Full integration with Dolphin Anty profiles—ensuring session fingerprint spoofing, proxy rotation, and anti-detection measures are baked in.
-- **Flexible Engine Support:** Choose your tooling—Selenium, Puppeteer, or Playwright—for the automation logic depending on task complexity and scale.
-- **Multi-Profile & Task Scaling**: Supports managing hundreds of browser sessions in parallel, each fully isolated and controllable via API.
 
 ## Features List:
 | **Feature**               | **Description**                                                                  |
